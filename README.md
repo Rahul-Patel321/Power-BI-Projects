@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a Power BI Dashboard designed for a computer hardware business facing challenges in a dynamically changing market. The sales director has decided to invest in a data analysis project to gain real-time sales insights.
+This project entails the development of a comprehensive Power BI Dashboard specifically tailored for a computer hardware business grappling with the challenges posed by a dynamically evolving market. The dashboard will provide a robust analytical toolset to enable the business to monitor key performance indicators, track market trends, and make data-driven decisions.
 ![image](https://github.com/Rahul-Patel321/Power-BI-Projects/assets/98198570/3a14f9b9-6513-4686-a27c-19a68ca701e8)
 
 
